@@ -16,11 +16,12 @@ I'm adaptive by default — drop me into a stack I've never touched and I'll fig
 - **Computer vision in the field** — OpenCV pipelines running on-board UAVs, geotagging detections against live MAVLink GPS telemetry.
 - **Telecom & ISP operations** — multi-tenant operator/HQ dashboards, customer accounts at scale, recharge and billing pipelines, wallet and financial-split logic, IVR + call-recording integrations.
 - **Travel-tech & fintech backends** — Django microservices for eSIM provisioning, payments, multi-currency wallets, scraping and exchange-rate pipelines, containerised deployments on Docker Swarm.
+- **Makerspace management platforms** — built a multi-tenant, open-source hardware-loan manager for makerspaces: a public no-login React catalog for browsing and borrowing, a JWT staff console with six scoped roles, and a Django admin control plane. Full handover traceability (QR scans + photos + append-only audit log), a single-source-of-truth request workflow, availability-safe inventory math, and Telegram accept/reject callbacks — Django 5 / DRF + React 18 + Postgres 16, self-hostable via Docker.
 - **Full-stack web & mobile** — React / Next.js / Vite + Supabase / Postgres SaaS products, Flutter mobile apps, Tauri + Rust desktop, design-system-driven landing pages, admin dashboards, and accessibility-first interfaces.
 
 ## 🛠 How I Work
 
-I bias toward *the smallest thing that proves the system works*, then I harden where it actually hurts. I read docs, write them, set up the infra, and treat developer experience as part of the deliverable. I've shipped in Python, TypeScript, Dart, Rust, C / C++, and Lua — but the through-line is the same: if there's no template for the problem, I'll build the template.
+I bias toward *the smallest thing that proves the system works*, then I harden where it actually hurts. I read docs, write them, set up the infra, and treat developer experience as part of the deliverable. I've shipped in Python, TypeScript, Dart, Rust, and C / C++ — but the through-line is the same: if there's no template for the problem, I'll build the template.
 
 ## 🤝 Community
 
@@ -32,7 +33,7 @@ I stay active in the maker and engineering community around me — organizing an
 
 **Languages**
 
-[![](https://skillicons.dev/icons?i=py,ts,js,dart,cpp,c,lua,r,bash,powershell,html,css,latex&perline=13)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=py,ts,js,dart,cpp,c,bash,powershell,html,css,latex&perline=11)](https://skillicons.dev)
 
 **Frontend & Mobile**
 
