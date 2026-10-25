@@ -18,7 +18,7 @@
 
 Hi, I'm **Shaan**, an engineer from Kochi, India.
 
-I build all kinds of things: robots, drones, apps, websites, IoT devices, AI and learning systems, and the backends that tie them together. I'm not tied to any one stack. I love trying out new ones and learning on the way, and I enjoy the research and product side as much as the building itself. I love getting into niche domains, and I'm always trying to get better at systems.
+I build all kinds of things: robots, drones, apps, websites, IoT devices, AI and Systems, and the backends that tie them together. I'm not tied to any one stack. I love trying out new ones and learning on the way, and I enjoy the research and product side as much as the building itself. I love getting into niche domains, and I'm always trying to get better at systems.
 
 I usually have several projects going at once, each one something I find interesting and want to learn more about. Some are finished, plenty are still in progress, and I'm always looking for the next idea. My favourite way to build is with my inner circle of people.
 
