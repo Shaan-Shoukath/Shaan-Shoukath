@@ -3,7 +3,7 @@
 # Engineering Anything
 
 <a href="https://shaans.works">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=560&lines=Robots.+Apps.+Web.+IoT.+Anything.;Learning+AI+along+the+way;Research%2C+product+and+new+stacks;Building+with+my+inner+circle;Volunteering+in+the+maker+community" alt="Engineering Anything"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=560&lines=Robots.+Apps.+Web.+IoT.+AI.+Anything.;Research%2C+product+and+new+stacks;Building+with+my+inner+circle;Volunteering+in+the+maker+community" alt="Engineering Anything"/>
 </a>
 
 <p>
@@ -18,16 +18,11 @@
 
 Hi, I'm **Shaan**, an engineer from Kochi, India.
 
-I build all kinds of things: robots, drones, apps, websites, IoT devices and the backends that tie them together. I'm not tied to any one stack, and I'll pick up whatever a problem needs to ship it.
+I build all kinds of things: robots, drones, apps, websites, IoT devices, AI and learning systems, and the backends that tie them together. I'm not tied to any one stack. I love trying out new ones and learning on the way, and I enjoy the research and product side as much as the building itself.
 
-## What I'm into
+I usually have several projects going at once, each one something I find interesting and want to learn more about. Some are finished, plenty are still in progress, and I'm always looking for the next idea. My favourite way to build is with my inner circle of people.
 
-- **Building in parallel:** I usually have several projects going at once, each one something I find interesting and want to learn more about. Some are finished, plenty are still in progress, and I'm always looking for the next idea.
-- **Learning AI:** I'm always going deeper into AI and finding ways to put it to work in what I build.
-- **Research and product:** I like digging into a problem properly, then shaping the answer into something people actually use.
-- **New stacks:** I love trying out new tools and frameworks and learning as I go, wherever the cool things are.
-- **Building with my people:** my favourite way to build is with my inner circle.
-- **Community:** I volunteer across the maker community. I organize and speak at events like Raspberry Pi Jam and Arduino Day, run hands-on workshops, mentor hackathon teams and help keep the makerspace at TinkerSpace running.
+Outside my own work, I **volunteer across the maker community**. I organize and speak at events like Raspberry Pi Jam and Arduino Day, run hands-on workshops, mentor hackathon teams and help keep the makerspace at TinkerSpace running.
 
 ## GitHub stats
 
