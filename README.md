@@ -18,7 +18,7 @@
 
 Hi, I'm **Shaan**, an engineer from Kochi, India.
 
-I build all kinds of things: robots, drones, apps, websites, IoT devices, AI and Systems, and the backends that tie them together. I'm not tied to any one stack. I love trying out new ones and learning on the way, and I enjoy the research and product side as much as the building itself. I love getting into niche domains, and I'm always trying to get better at systems.
+I build all kinds of things: robots, drones, apps, websites, IoT devices, AI and systems, and the backends that tie them together. I'm not tied to any one stack. I love trying out new ones and learning along the way, and I enjoy the research and product side as much as the building itself. I love getting into niche domains, and I'm always trying to get better at systems.
 
 I usually have several projects going at once, each one something I find interesting and want to learn more about. Some are finished, plenty are still in progress, and I'm always looking for the next idea. My favourite way to build is with my inner circle of people.
 
@@ -26,32 +26,24 @@ Outside my own work, I **volunteer across the maker community**. I organize and 
 
 ## GitHub stats
 
-## GitHub stats
-
-<!-- GitHub Stats & Streak -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Shaan-Shoukath&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="180" src="https://streak-stats.demolab.com?user=Shaan-Shoukath&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaan-Shoukath&theme=tokyonight" alt="GitHub contribution activity"/>
 </p>
 
-<!-- Contribution Activity -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaan-Shoukath&theme=tokyonight" width="100%" alt="GitHub Contribution Activity"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shaan-Shoukath&theme=tokyonight" alt="GitHub statistics"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shaan-Shoukath&theme=tokyonight&utcOffset=5.5" alt="Commits by hour"/>
 </p>
 
-<!-- Languages & Productivity -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaan-Shoukath&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shaan-Shoukath&theme=tokyonight&utcOffset=5.5" alt="Commit Activity by Hour"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shaan-Shoukath&theme=tokyonight" alt="Repositories by language"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shaan-Shoukath&theme=tokyonight" alt="Top languages by commits"/>
 </p>
 
-<!-- Additional GitHub Statistics -->
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shaan-Shoukath&theme=tokyonight" alt="GitHub Statistics"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shaan-Shoukath&theme=tokyonight" alt="Repositories by Language"/>
+  <img height="180" src="https://streak-stats.demolab.com?user=Shaan-Shoukath&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
-<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shaan-Shoukath&label=Profile%20views&color=7aa2f7&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Shaan-Shoukath&label=Profile%20views&color=7aa2f7&style=flat-square" alt="Profile views"/>
 </p>
