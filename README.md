@@ -26,20 +26,32 @@ Outside my own work, I **volunteer across the maker community**. I organize and 
 
 ## GitHub stats
 
+## GitHub stats
+
+<!-- GitHub Stats & Streak -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shaan-Shoukath&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Shaan-Shoukath&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Shaan-Shoukath&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="180" src="https://streak-stats.demolab.com?user=Shaan-Shoukath&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
+<!-- Contribution Activity -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaan-Shoukath&theme=tokyonight" alt="Contribution graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaan-Shoukath&theme=tokyonight" width="100%" alt="GitHub Contribution Activity"/>
 </p>
 
+<!-- Languages & Productivity -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaan-Shoukath&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shaan-Shoukath&theme=tokyonight&utcOffset=5.5" alt="Productive time"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaan-Shoukath&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shaan-Shoukath&theme=tokyonight&utcOffset=5.5" alt="Commit Activity by Hour"/>
 </p>
 
+<!-- Additional GitHub Statistics -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shaan-Shoukath&label=Profile%20views&color=7aa2f7&style=flat-square" alt="Profile views"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shaan-Shoukath&theme=tokyonight" alt="GitHub Statistics"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shaan-Shoukath&theme=tokyonight" alt="Repositories by Language"/>
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shaan-Shoukath&label=Profile%20views&color=7aa2f7&style=flat-square" alt="Profile Views"/>
 </p>
