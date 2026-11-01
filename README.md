@@ -27,21 +27,14 @@ Outside my own work, I **volunteer across the maker community**. I organize and 
 ## GitHub stats
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaan-Shoukath&theme=tokyonight" alt="GitHub contribution activity"/>
+  <img width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaan-Shoukath&theme=tokyonight" alt="GitHub contribution activity"/>
+  <img width="40%" src="https://streak-stats.demolab.com?user=Shaan-Shoukath&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shaan-Shoukath&theme=tokyonight" alt="GitHub statistics"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shaan-Shoukath&theme=tokyonight&utcOffset=5.5" alt="Commits by hour"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shaan-Shoukath&theme=tokyonight" alt="Repositories by language"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shaan-Shoukath&theme=tokyonight" alt="Top languages by commits"/>
-</p>
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=Shaan-Shoukath&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shaan-Shoukath&theme=tokyonight" alt="GitHub statistics"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shaan-Shoukath&theme=tokyonight" alt="Top languages by commits"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shaan-Shoukath&theme=tokyonight&utcOffset=5.5" alt="Commits by hour"/>
 </p>
 
 <p align="center">
